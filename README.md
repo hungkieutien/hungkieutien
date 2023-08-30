@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Welcome to my GitHub profile! I'm [Your Name], a [Your Role/Title] passionate about [Your Interests]. Here, you'll find a collection of my projects and contributions. Feel free to explore and reach out if you have any questions or just want to connect.
 
