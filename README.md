@@ -38,5 +38,5 @@ I occasionally write about topics related to [Your Interests/Field]. Check out m
 
 I'm always open to connecting with fellow developers, enthusiasts, and anyone who shares similar interests. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername).
 
-Looking forward to connecting with you! 😊
+Looking forward to connecting with you! 
 
