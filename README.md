@@ -17,6 +17,11 @@ Through my work experiences in the last four years, I had the opportunity to wor
 
 I'm currently looking for a new role as a developer with a focus on React.
 
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,php,symfony,java,mysql,docker,bash,git,gitlab,mongodb)](https://skillicons.dev)
+
 ## Let's Connect
 
 I'm always open to connecting with fellow developers, enthusiasts, and anyone who shares similar interests. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
