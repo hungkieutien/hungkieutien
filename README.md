@@ -1,13 +1,11 @@
-# Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-Welcome to my GitHub profile! I'm [Your Name], a [Your Role/Title] passionate about [Your Interests]. Here, you'll find a collection of my projects and contributions. Feel free to explore and reach out if you have any questions or just want to connect.
+# Hello! I'm Hung Kieu ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## About Me
 
-- 🌍 Location: [Your Location]
-- 💼 Occupation: [Your Occupation]
-- 🌱 I’m currently learning: [Current Learning Focus]
-- 📫 How to reach me: [Your Email Address] | [LinkedIn](https://www.linkedin.com/in/yourusername/) | [Twitter](https://twitter.com/yourusername)
+- 🌍 Location: Würzburg
+- 💼 Occupation: netgrade GmbH
+- 🌱 I’m currently learning: React 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hung-kieu-tien/)
 
 ## Projects
 
