@@ -4,7 +4,7 @@
 
 🌍 Location: Würzburg
 
-💼 Occupation: netgrade GmbH
+💼 Occupation: snapADDY GmbH
 
 🌱 I’m currently learning: React 
 
