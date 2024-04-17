@@ -22,9 +22,4 @@ I'm currently looking for a new role as a developer with a focus on React.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,bootstrap,php,symfony,bash,git,gitlab)](https://skillicons.dev)
 
-## Let's Connect
-
-I'm always open to connecting with fellow developers, enthusiasts, and anyone who shares similar interests. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
-
-Looking forward to connecting with you! 
 
