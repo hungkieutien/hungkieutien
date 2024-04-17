@@ -1,4 +1,4 @@
-# Hello! I'm Hung Kieu ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hello! 😊
 
 ## About Me
 
@@ -20,7 +20,7 @@ I'm currently looking for a new role as a developer with a focus on React.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,php,symfony,java,mysql,docker,bash,git,gitlab,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,bootstrap,php,symfony,bash,git,gitlab)](https://skillicons.dev)
 
 ## Let's Connect
 
