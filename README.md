@@ -15,9 +15,6 @@ During my studies I learned the basics of front-end and back-end web development
 
 Through my work experiences in the last four years, I had the opportunity to work with cross-functional teams and different technologies. Although back-end development has been my main area over the past time, I wanted to expand my skills in the front-end development. This versatility allows me to work effectively at different stages of a project's development and ensure that the final products are both functional and aesthetically pleasing.
 
-I'm currently looking for a new role as a developer with a focus on React.
-
-
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,bootstrap,php,symfony,bash,git,gitlab)](https://skillicons.dev)
